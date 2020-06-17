@@ -1,6 +1,6 @@
 # LINKS
 
-## Scikit:
+## Scikit Learn:
 - https://scipy-lectures.org/packages/scikit-learn/auto_examples/plot_digits_simple_classif.html
 ## Métodos de Reducción de Dimensionalidad:
 - https://medium.com/analytics-vidhya/pca-vs-t-sne-17bcd882bf3d
