@@ -10,5 +10,6 @@
 - https://jakevdp.github.io/PythonDataScienceHandbook/04.07-customizing-colorbars.html
 ## Video explicativo de PCA:
 - https://www.youtube.com/watch?v=_UVHneBUBW0
+- https://www.youtube.com/watch?v=FgakZw6K1QQ
 ## Github:
 - PEP8: https://github.com/IIC2233/contenidos/blob/master/semana-00/1-gu%C3%ADa-de-estilo.ipynb
