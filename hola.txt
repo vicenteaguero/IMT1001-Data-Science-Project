@@ -1,3 +1,7 @@
 holaaaaaa
 chaooo
+<<<<<<< HEAD
 hola, me funcionó
+=======
+hola denuevo
+>>>>>>> adf14ed9cfbd5113db9b679b59b6e6fbbacbffef
