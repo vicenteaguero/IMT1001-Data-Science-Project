@@ -8,6 +8,7 @@
 - https://medium.com/analytics-vidhya/pca-vs-t-sne-17bcd882bf3d
 - https://towardsdatascience.com/pca-and-svd-explained-with-numpy-5d13b0d2a4d8#:~:text=Principal%20component%20analysis%20(PCA)%20and,(EDA)%20and%20Machine%20Learning
 - https://jakevdp.github.io/PythonDataScienceHandbook/04.07-customizing-colorbars.html
+-SVD Example: https://towardsdatascience.com/singular-value-decomposition-example-in-python-dab2507d85a0
 ## Video explicativo de PCA:
 - https://www.youtube.com/watch?v=_UVHneBUBW0
 - https://www.youtube.com/watch?v=FgakZw6K1QQ
