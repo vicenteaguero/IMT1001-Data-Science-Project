@@ -15,3 +15,5 @@
 - https://www.youtube.com/watch?v=FgakZw6K1QQ
 ## Github:
 - PEP8: https://github.com/IIC2233/contenidos/blob/master/semana-00/1-gu%C3%ADa-de-estilo.ipynb
+## Classification
+- https://data-flair.training/blogs/machine-learning-classification-algorithms/
