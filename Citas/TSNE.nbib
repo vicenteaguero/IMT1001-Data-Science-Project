@@ -1,0 +1,93 @@
+PMID- 30532798
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190409
+LR  - 20190409
+IS  - 1748-6718 (Electronic)
+IS  - 1748-670X (Print)
+IS  - 1748-670X (Linking)
+VI  - 2018
+DP  - 2018
+TI  - On the Use of t-Distributed Stochastic Neighbor Embedding for Data Visualization and 
+      Classification of Individuals with Parkinson's Disease.
+PG  - 8019232
+LID - 10.1155/2018/8019232 [doi]
+LID - 8019232
+AB  - Parkinson's disease (PD) is a neurodegenerative disorder that remains incurable. The 
+      available treatments for the disorder include pharmacologic therapies and deep brain 
+      stimulation (DBS). These approaches may cause distinct side effects and motor 
+      responses. This work presents the application of t-distributed stochastic neighbor 
+      embedding (t-SNE), which is a machine learning algorithm for nonlinear 
+      dimensionality reduction and data visualization, for the problem of discriminating 
+      neurologically healthy individuals from those suffering from PD (treated with 
+      levodopa and DBS). Furthermore, the assessment of classification methods is 
+      presented. Inertial and electromyographic data were collected while the subjects 
+      executed a sequence of four motor tasks. The results were focused on the comparison 
+      of the classification performance of a support vector machine (SVM) while 
+      discriminating two-dimensional feature sets estimated from Principal Component 
+      Analysis (PCA), Sammon's mapping, and t-SNE. The results showed visual and 
+      statistical differences for all three investigated groups. Classification accuracy 
+      for PCA, Sammon's mapping, and t-SNE was, respectively, 73.5%, 78.6%, and 96.9% for 
+      the training set and 67.8%, 74.1%, and 76.6% for the test set. The possibility of 
+      discriminating healthy individuals from those with PD treated with levodopa and DBS 
+      highlights the fact that each treatment method produces distinct motor behavior. The 
+      scatter plots resulting from t-SNE could be used in the clinical practice as an 
+      objective tool for measuring the discrepancy between normal and abnormal motor 
+      behaviors, being thus useful for the adjustment of treatments and the follow-up of 
+      the disorder.
+FAU - Oliveira, Fábio Henrique M
+AU  - Oliveira FHM
+AUID- ORCID: 0000-0002-0344-5801
+AD  - Centre for Innovation and Technology Assessment in Health, Postgraduate Program in 
+      Electrical and Biomedical Engineering, Faculty of Electrical Engineering, Federal 
+      University of Uberlândia, Uberlândia, Brazil.
+AD  - Federal Institute of Science and Technology-Campus Brasília, Brasília, Brazil.
+FAU - Machado, Alessandro R P
+AU  - Machado ARP
+AUID- ORCID: 0000-0003-4581-9354
+AD  - Centre for Innovation and Technology Assessment in Health, Postgraduate Program in 
+      Electrical and Biomedical Engineering, Faculty of Electrical Engineering, Federal 
+      University of Uberlândia, Uberlândia, Brazil.
+FAU - Andrade, Adriano O
+AU  - Andrade AO
+AUID- ORCID: 0000-0002-5689-6606
+AD  - Centre for Innovation and Technology Assessment in Health, Postgraduate Program in 
+      Electrical and Biomedical Engineering, Faculty of Electrical Engineering, Federal 
+      University of Uberlândia, Uberlândia, Brazil.
+LA  - eng
+PT  - Journal Article
+DEP - 20181104
+TA  - Comput Math Methods Med
+JT  - Computational and mathematical methods in medicine
+JID - 101277751
+RN  - 0 (Antiparkinson Agents)
+RN  - 46627O600J (Levodopa)
+SB  - IM
+MH  - Algorithms
+MH  - Antiparkinson Agents/therapeutic use
+MH  - Data Visualization
+MH  - Deep Brain Stimulation
+MH  - Electromyography
+MH  - Humans
+MH  - Levodopa/therapeutic use
+MH  - Machine Learning
+MH  - Motor Skills/physiology
+MH  - Nonlinear Dynamics
+MH  - Parkinson Disease/*classification/physiopathology/therapy
+MH  - Principal Component Analysis
+MH  - Stochastic Processes
+MH  - Support Vector Machine
+PMC - PMC6247646
+EDAT- 2018/12/12 06:00
+MHDA- 2019/04/10 06:00
+CRDT- 2018/12/12 06:00
+PHST- 2018/04/14 00:00 [received]
+PHST- 2018/09/16 00:00 [revised]
+PHST- 2018/10/02 00:00 [accepted]
+PHST- 2018/12/12 06:00 [entrez]
+PHST- 2018/12/12 06:00 [pubmed]
+PHST- 2019/04/10 06:00 [medline]
+AID - 10.1155/2018/8019232 [doi]
+PST - epublish
+SO  - Comput Math Methods Med. 2018 Nov 4;2018:8019232. doi: 10.1155/2018/8019232. 
+      eCollection 2018.

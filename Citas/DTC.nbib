@@ -1,0 +1,61 @@
+PMID- 26120265
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20150629
+LR  - 20181113
+IS  - 1002-0829 (Print)
+IS  - 1002-0829 (Linking)
+VI  - 27
+IP  - 2
+DP  - 2015 Apr 25
+TI  - Decision tree methods: applications for classification and prediction.
+PG  - 130-5
+LID - 10.11919/j.issn.1002-0829.215044 [doi]
+AB  - Decision tree methodology is a commonly used data mining method for establishing 
+      classification systems based on multiple covariates or for developing prediction 
+      algorithms for a target variable. This method classifies a population into 
+      branch-like segments that construct an inverted tree with a root node, internal 
+      nodes, and leaf nodes. The algorithm is non-parametric and can efficiently deal with 
+      large, complicated datasets without imposing a complicated parametric structure. 
+      When the sample size is large enough, study data can be divided into training and 
+      validation datasets. Using the training dataset to build a decision tree model and a 
+      validation dataset to decide on the appropriate tree size needed to achieve the 
+      optimal final model. This paper introduces frequently used algorithms used to 
+      develop decision trees (including CART, C4.5, CHAID, and QUEST) and describes the 
+      SPSS and SAS programs that can be used to visualize tree structure.
+FAU - Song, Yan-Yan
+AU  - Song YY
+AD  - Department of Pharmacology and Biostatistics, Institute of Medical Sciences, 
+      Shanghai Jiao Tong University School of Medicine, Shanghai, China ; Department of 
+      Pharmacology and Biostatistics, Institute of Medical Sciences, Shanghai Jiao Tong 
+      University School of Medicine, Shanghai, China.
+FAU - Lu, Ying
+AU  - Lu Y
+AD  - Department of Pharmacology and Biostatistics, Institute of Medical Sciences, 
+      Shanghai Jiao Tong University School of Medicine, Shanghai, China ; Department of 
+      Pharmacology and Biostatistics, Institute of Medical Sciences, Shanghai Jiao Tong 
+      University School of Medicine, Shanghai, China.
+LA  - eng
+PT  - Journal Article
+TA  - Shanghai Arch Psychiatry
+JT  - Shanghai archives of psychiatry
+JID - 9891453
+PMC - PMC4466856
+OTO - NOTNLM
+OT  - classification
+OT  - data mining
+OT  - decision tree
+OT  - prediction
+EDAT- 2015/06/30 06:00
+MHDA- 2015/06/30 06:01
+CRDT- 2015/06/30 06:00
+PHST- 2015/04/01 00:00 [received]
+PHST- 2015/04/09 00:00 [accepted]
+PHST- 2015/06/30 06:00 [entrez]
+PHST- 2015/06/30 06:00 [pubmed]
+PHST- 2015/06/30 06:01 [medline]
+AID - sap-27-02-130 [pii]
+AID - 10.11919/j.issn.1002-0829.215044 [doi]
+PST - ppublish
+SO  - Shanghai Arch Psychiatry. 2015 Apr 25;27(2):130-5. doi: 
+      10.11919/j.issn.1002-0829.215044.
