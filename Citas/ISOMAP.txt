@@ -1,0 +1,5 @@
+@article{el2006intelligent,
+  title={INTELLIGENT TECHNIQUES (LINEAR AND NONLINEAR) FOR VECTORS SIZE REDUCTION IN FEATURE SELECTION POINT},
+  author={El-Sayed, Mohamed A},
+  year={2006}
+}
